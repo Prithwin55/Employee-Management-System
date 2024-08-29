@@ -1,0 +1,17 @@
+.footer
+{
+  background-color: black;
+  width:100%;
+  height: 50px;
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+}
+.pos{
+  padding-left: 30px;
+}
+
+.left{
+  padding-right: 1127px;
+  float: left;
+}
